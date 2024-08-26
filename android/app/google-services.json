@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348829755082",
+    "project_id": "otptest-a9309",
+    "storage_bucket": "otptest-a9309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348829755082:android:addf382242535be61fb633",
+        "android_client_info": {
+          "package_name": "com.khobbysam.TestAPp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1It8ZCiD2Cp4c7biLR6tP1m1nO4KSBwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
